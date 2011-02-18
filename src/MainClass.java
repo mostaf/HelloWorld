@@ -4,7 +4,7 @@
 
 /**
  * @author MSH
- *
+ * 
  */
 public class MainClass {
 
@@ -20,7 +20,7 @@ public class MainClass {
 	 */
 	public static void main(String[] args) {
 		MainClass mainClass = new MainClass();
-		mainClass.hashCode();
+		System.out.println(mainClass.hashCode());
 
 	}
 
