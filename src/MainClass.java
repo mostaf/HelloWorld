@@ -19,7 +19,8 @@ public class MainClass {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		MainClass mainClass = new MainClass();
+		mainClass.hashCode();
 
 	}
 
